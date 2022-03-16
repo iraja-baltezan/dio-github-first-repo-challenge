@@ -4,3 +4,4 @@ Repositório para o desafio da etapa "Criando seu primeiro repositório no Githu
 ## Links
 
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Livro Pro Git](https://git-scm.com/book/pt-br/v2)
